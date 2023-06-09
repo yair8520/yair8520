@@ -1,21 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
+
+## My name is Yair Gabay
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-**yair8520/yair8520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a frontend developer specializing in React Native and React. With a passion for creating interactive and user-friendly applications, I strive to deliver high-quality and efficient code. I enjoy working on challenging projects that push the boundaries of what is possible in the web and mobile app development space.
+
+
+## Get in Touch
+
+Feel free to reach out to me through the following channels:
+
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white): [LinkedIn Profile](https://www.linkedin.com/in/yair-gabay-aba1b8207)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-%23339933?logo=google-chrome&logoColor=white): [My Portfolio](https://yair8520.github.io/MyPortfolio)
+
+I am open to collaboration opportunities, freelance work, or simply connecting with fellow developers.
+
+Let's create amazing experiences together!
